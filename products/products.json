@@ -7,7 +7,7 @@
       "intensity": 3,
       "notes": "Цветочный букет",
       "price": "5 500 ₽",
-      "image": "/assets/jadore-spray.png"
+      "image": "../assets/jadore-spray.png"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "intensity": 1,
       "notes": "Цитрус",
       "price": "7 700 ₽",
-      "image": "/assets/jadore-geledor.png"
+      "image": "../assets/jadore-geledor.png"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "intensity": 1,
       "notes": "Жасмин, Цитрус",
       "price": "6 750 ₽",
-      "image": "/assets/jadore-milk.png"
+      "image": "../assets/jadore-milk.png"
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "intensity": 3,
       "notes": "Иланг-Иланг",
       "price": "3 550 ₽",
-      "image": "/assets/jadore-soap.png"
+      "image": "../assets/jadore-soap.png"
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "intensity": 5,
       "notes": "Аккорд Красных Ягод",
       "price": "12 300 ₽",
-      "image": "/assets/miss-dior-50.png"
+      "image": "../assets/miss-dior-50.png"
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
       "intensity": 5,
       "notes": "Роза Сентифолии",
       "price": "6 450 ₽",
-      "image": "/assets/miss-dior-oil.png"
+      "image": "../assets/miss-dior-oil.png"
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
       "intensity": 5,
       "notes": "Ландыш, Пион",
       "price": "16 900 ₽",
-      "image": "/assets/miss-dior-100.png"
+      "image": "../assets/miss-dior-100.png"
     },
     {
       "id": 8,
@@ -77,7 +77,7 @@
       "intensity": 3,
       "notes": "Ландыш, Роза",
       "price": "5 930 ₽",
-      "image": "/assets/joy-milk.png"
+      "image": "../assets/joy-milk.png"
     },
     {
       "id": 9,
@@ -87,7 +87,7 @@
       "intensity": 1,
       "notes": "Цитрус",
       "price": "6 650 ₽",
-      "image": "/assets/miss-dior-powder.png"
+      "image": "../assets/miss-dior-powder.png"
     },
     {
       "id": 10,
@@ -97,7 +97,7 @@
       "intensity": 5,
       "notes": "Цитрус, Апельсин",
       "price": "9 200 ₽",
-      "image": "/assets/jadore-1.png"
+      "image": "../assets/jadore-1.png"
     },
     {
       "id": 11,
@@ -107,7 +107,7 @@
       "intensity": 4,
       "notes": "Цветочные, цитрусовые ноты",
       "price": "6 450 ₽",
-      "image": "/assets/jadore-pearl.png"
+      "image": "../assets/jadore-pearl.png"
     },
     {
       "id": 12,
@@ -117,7 +117,7 @@
       "intensity": 5,
       "notes": "роза Центифолия, эссенция Иланг-Иланг",
       "price": "26 800 ₽",
-      "image": "/assets/jadore.png"
+      "image": "../assets/jadore.png"
     },
     {
       "id": 13,
@@ -127,7 +127,7 @@
       "intensity": 2,
       "notes": "Анютины Глазки",
       "price": "8 070 ₽",
-      "image": "/assets/jadore-cream.png"
+      "image": "../assets/jadore-cream.png"
     },
     {
       "id": 14,
@@ -137,7 +137,7 @@
       "intensity": 3,
       "notes": "Цветочные ноты",
       "price": "10 300 ₽",
-      "image": "/assets/jadore-deau.png"
+      "image": "../assets/jadore-deau.png"
     },
     {
       "id": 15,
@@ -147,7 +147,7 @@
       "intensity": 5,
       "notes": "Роза, Ваниль",
       "price": "4 990 ₽",
-      "image": "/assets/joy-gel.png"
+      "image": "../assets/joy-gel.png"
     },
     {
       "id": 16,
@@ -157,7 +157,7 @@
       "intensity": 5,
       "notes": "Роза, Жасмин, Дерево, Ваниль",
       "price": "7 150 ₽",
-      "image": "/assets/joy-1.png"
+      "image": "../assets/joy-1.png"
     },
     {
       "id": 17,
@@ -167,7 +167,7 @@
       "intensity": 5,
       "notes": "Роза, Жасмин, Дерево, Ваниль",
       "price": "16 900 ₽",
-      "image": "/assets/joy-2.png"
+      "image": "../assets/joy-2.png"
     },
     {
       "id": 18,
@@ -177,7 +177,7 @@
       "intensity": 5,
       "notes": "Горький Апельсин, Грасская Роза",
       "price": "12 300 ₽",
-      "image": "/assets/poison-1.png"
+      "image": "../assets/poison-1.png"
     },
     {
       "id": 19,
@@ -187,7 +187,7 @@
       "intensity": 5,
       "notes": "Калабрийский Бергамот, Цветок Апельсина",
       "price": "10 300 ₽",
-      "image": "/assets/pure-poison.png"
+      "image": "../assets/pure-poison.png"
     },
     {
       "id": 20,
@@ -197,7 +197,7 @@
       "intensity": 5,
       "notes": "Горький Апельсин, Грасская Роза",
       "price": "16 900 ₽",
-      "image": "/assets/hypnotic-poison.png"
+      "image": "../assets/hypnotic-poison.png"
     },
     {
       "id": 21,
@@ -207,7 +207,7 @@
       "intensity": 5,
       "notes": "Кориандр",
       "price": "22 500 ₽",
-      "image": "/assets/poison-15.png"
+      "image": "../assets/poison-15.png"
     },
     {
       "id": 22,
@@ -217,7 +217,7 @@
       "intensity": 3,
       "notes": "Жасмин Самбак, Миндаль",
       "price": "10 300 ₽",
-      "image": "/assets/poison-red.png"
+      "image": "../assets/poison-red.png"
     },
     {
       "id": 23,
@@ -227,7 +227,7 @@
       "intensity": 3,
       "notes": "Танзанийский Имбирь, Роза Дамасцена",
       "price": "14 350 ₽",
-      "image": "/assets/poison-pink.png"
+      "image": "../assets/poison-pink.png"
     },
     {
       "id": 24,
@@ -237,7 +237,7 @@
       "intensity": 5,
       "notes": "Апельсин",
       "price": "6 190 ₽",
-      "image": "/assets/poison-pink-2.png"
+      "image": "../assets/poison-pink-2.png"
     },
     {
       "id": 25,
@@ -247,7 +247,7 @@
       "intensity": 2,
       "notes": "Мускат",
       "price": "6 190 ₽",
-      "image": "/assets/lucky-cream.png"
+      "image": "../assets/lucky-cream.png"
     },
     {
       "id": 26,
@@ -257,7 +257,7 @@
       "intensity": 4,
       "notes": "Цветочное комбо",
       "price": "3 550 ₽",
-      "image": "/assets/joy-dezo.png"
+      "image": "../assets/joy-dezo.png"
     },
     {
       "id": 27,
@@ -267,7 +267,7 @@
       "intensity": 2,
       "notes": "Жасмин",
       "price": "3 100 ₽",
-      "image": "/assets/miss-dior-soap.png"
+      "image": "../assets/miss-dior-soap.png"
     },
     {
       "id": 28,
@@ -277,7 +277,7 @@
       "intensity": 1,
       "notes": "Эссенция Бергамота, Пиона",
       "price": "5 150 ₽",
-      "image": "/assets/miss-dior-pearl.png"
+      "image": "../assets/miss-dior-pearl.png"
     },
     {
       "id": 29,
@@ -287,7 +287,7 @@
       "intensity": 1,
       "notes": "Жасмин, Гальбанум",
       "price": "12 150 ₽",
-      "image": "/assets/miss-dior-yellow.png"
+      "image": "../assets/miss-dior-yellow.png"
     },
     {
       "id": 30,
@@ -297,7 +297,7 @@
       "intensity": 3,
       "notes": "Жасмин, Миндаль",
       "price": "5 900 ₽",
-      "image": "/assets/miss-dior-gel.png"
+      "image": "../assets/miss-dior-gel.png"
     },
     {
       "id": 31,
@@ -307,7 +307,7 @@
       "intensity": 2,
       "notes": "Жасмин, Роза",
       "price": "9 450 ₽",
-      "image": "/assets/miss-dior-cream.png"
+      "image": "../assets/miss-dior-cream.png"
     },
     {
       "id": 32,
@@ -317,7 +317,7 @@
       "intensity": 4,
       "notes": "Роза, Миндаль",
       "price": "4 650 ₽",
-      "image": "/assets/joy-3.png"
+      "image": "../assets/joy-3.png"
     },
     {
       "id": 33,
@@ -327,7 +327,7 @@
       "intensity": 1,
       "notes": "Танзанийский Имбирь, Роза Дамасцена",
       "price": "5 150 ₽",
-      "image": "/assets/hypnotic-poison-1.png"
+      "image": "../assets/hypnotic-poison-1.png"
     },
     {
       "id": 34,
@@ -337,7 +337,7 @@
       "intensity": 1,
       "notes": "Калабоийский Бергамот, Ландыш",
       "price": "14 350 ₽",
-      "image": "/assets/dior-addict-1.png"
+      "image": "../assets/dior-addict-1.png"
     },
     {
       "id": 35,
@@ -347,7 +347,7 @@
       "intensity": 4,
       "notes": "Фледоранж, Жасмин",
       "price": "12 300 ₽",
-      "image": "/assets/dior-addict-2.png"
+      "image": "../assets/dior-addict-2.png"
     },
     {
       "id": 36,
@@ -357,7 +357,7 @@
       "intensity": 1,
       "notes": "Сицилийский Мандарин",
       "price": "14 200 ₽",
-      "image": "/assets/dior-addict-3.png"
+      "image": "../assets/dior-addict-3.png"
     },
     {
       "id": 37,
@@ -367,7 +367,7 @@
       "intensity": 1,
       "notes": "Киви, Ваниль",
       "price": "6 990 ₽",
-      "image": "/assets/lucky-soap.png"
+      "image": "../assets/lucky-soap.png"
     },
     {
       "id": 38,
@@ -377,7 +377,7 @@
       "intensity": 1,
       "notes": "Киви, Ваниль",
       "price": "27 520 ₽",
-      "image": "/assets/lucky-perfume-125.png"
+      "image": "../assets/lucky-perfume-125.png"
     },
     {
       "id": 39,
@@ -387,7 +387,7 @@
       "intensity": 1,
       "notes": "Киви, Ваниль",
       "price": "40 390 ₽",
-      "image": "/assets/lucky-perfume-125.png"
+      "image": "../assets/lucky-perfume-125.png"
     },
     {
       "id": 40,
@@ -397,7 +397,7 @@
       "intensity": 1,
       "notes": "Киви, Жасмин, Имбирь",
       "price": "4 990 ₽",
-      "image": "/assets/lucky-soap-2.png"
+      "image": "../assets/lucky-soap-2.png"
     }
   ]
   
