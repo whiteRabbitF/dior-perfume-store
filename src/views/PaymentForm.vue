@@ -42,7 +42,7 @@
 
 
 <script>
-import productsData from "/public/products/products.json";
+import productsData from "/products/products.json?url";
 
 export default {
   data() {

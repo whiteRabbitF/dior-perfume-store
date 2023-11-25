@@ -116,7 +116,7 @@ export default {
 
         const fetchProducts = async () => {
       try {
-        const response = await fetch('../products/products.json');
+        const response = await fetch('../products/products.json?url');
         
         if (!response.ok) {
           throw new Error(`Network response was not ok, status: ${response.status}`);
