@@ -114,13 +114,19 @@ export default {
   setup() {
     const products = ref([]);
 
-    const fetchProducts = async () => {
+        const fetchProducts = async () => {
       try {
-        const response = await fetch('/src/products/products.json');
+        const response = await fetch('src/products/products.json');
+        
+        if (!response.ok) {
+          throw new Error(`Network response was not ok, status: ${response.status}`);
+        }
+
         const data = await response.json();
         products.value = data;
       } catch (error) {
         console.error('Ошибка загрузки данных:', error);
+        console.error('Ошибка парсинга JSON:', error.message);
       }
     };
 
