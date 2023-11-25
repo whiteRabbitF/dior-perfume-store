@@ -1,0 +1,58 @@
+.sorting-container{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    width: 1400px;
+    height: 70px;
+    margin-left: 400px;
+    font-weight: 700;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18pt;
+    margin-top: 120px;
+    color: #111010;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: -190px;
+  }
+  
+  .to-sort{
+    font-weight: 700;
+    color: #111010;
+    position: relative;
+    width: 300px;
+    font-size: 20pt;
+  }
+  
+  .sort-button {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-right: 70px;
+    margin-left: 20px;
+  }
+
+  .sort-button label{
+    margin-left: 10px;
+  }
+  
+  select {
+    appearance: none;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 10px;
+    background-image: url('../assets/right-arrow.png');
+    background-size: 10px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+  }
+  
+  
+  select option {
+    color: #0f101180;
+    background-color: #ada9a928;
+    margin-right: 10px;
+  }

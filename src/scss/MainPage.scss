@@ -1,0 +1,77 @@
+.header-main{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 22pt;
+    margin-bottom: 40px;
+}
+
+.jadore-main img{
+    position: relative;
+    width: 2600px;
+    height: auto;
+    margin-top: 500px;
+    margin-bottom: -450px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.christian-dior-main img{
+    position: relative;
+    width: 2600px;
+    height: auto;
+    margin-top: 500px;
+    margin-bottom: -450px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.description{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16pt;
+    margin-bottom: 40px;
+}
+
+.to-order{
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    padding: 40px;
+    font-size: 18pt;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    color: #1e1e1e;
+    background-color: white;
+}
+
+.to-catalog{
+    font-size: 14pt;
+}
+
+.to-order span{
+    display: none;
+    color: #1e1e1e;
+    margin-top: 15px;
+    font-size: 16pt;
+}
+
+.to-order:hover{
+    box-shadow: #1f202125 10px 15px 15px;
+}
+
+.to-order:hover span{
+    display: inline-block;
+}
+
+
+
+
+

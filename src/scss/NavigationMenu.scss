@@ -1,0 +1,110 @@
+.menu {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+
+.icon-menu span{
+  color: #050505;
+  text-align: right;
+  font-size: 16pt;
+  opacity: 0;
+  text-decoration: none;
+  }
+
+  .icon-menu img{
+    width: 60px;
+    height: auto;
+  }
+
+  .icon-menu:hover{
+    color: #fff;
+  }
+
+  .icon-menu :hover span{
+    opacity: 1;
+  }
+   
+  
+   .search-input {
+     padding: 10px;
+     border: 1px solid black;
+     outline: none;
+     background: transparent;
+     text-align: left;
+     font-size: 16pt;
+     border-radius: 20px;
+     font-family: 'Comfortaa', sans-serif;
+   }
+
+  .search-input:focus,
+  .search-input:valid {
+    width: 800px;
+    height: 50px;
+    transition: 2s;
+    transition: width 0.7s ease;
+  }
+
+
+   .show-btn {
+    padding: 20px 120px;
+    border-radius: 5px;
+    border: none;
+    background-color: #fff;
+    font-size: 16pt;
+    color: #111010;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.514);
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 140px;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20pt;
+    }
+    
+    .show-btn:hover {
+    background-color: rgb(67, 67, 70);
+    color: #fff;
+    box-shadow: 0 20px 40px rgba(7, 84, 107, 0.356);
+    }
+  
+  .up-btn{
+    padding: 10px 10px;
+    border-radius: 3px;
+    background-color: #202020c4;
+    border: none;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: 750px;
+    margin-bottom: 40px;
+  }
+  
+  .up-btn:hover {
+    background-color: #202020c4;
+    color: #fff;
+    box-shadow: 0 20px 40px rgba(7, 84, 107, 0.356);
+  }
+
+  .no-results-message{
+    margin-top: 40px;
+    font-size: 26px;
+    margin-left: 50px;
+  }
+
+  .basket-count {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: rgb(10, 10, 10);
+    border-radius: 50%;
+    padding: 4px 8px;
+    font-size: 12px;
+  }

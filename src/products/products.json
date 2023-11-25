@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "name": "J`adore",
+      "description": "парфюмированный дезодорант",
+      "volume": "100мл",
+      "intensity": 3,
+      "notes": "Цветочный букет",
+      "price": "5 500 ₽",
+      "image": "../src/assets/jadore-spray.png"
+    },
+    {
+      "id": 2,
+      "name": "J`adore",
+      "description": "мерзающий крем для тела",
+      "volume": "150мл",
+      "intensity": 1,
+      "notes": "Цитрус",
+      "price": "7 700 ₽",
+      "image": "../src/assets/jadore-geledor.png"
+    },
+    {
+      "id": 3,
+      "name": "J`adore",
+      "description": "молочко для тела",
+      "volume": "200мл",
+      "intensity": 1,
+      "notes": "Жасмин, Цитрус",
+      "price": "6 750 ₽",
+      "image": "../src/assets/jadore-milk.png"
+    },
+    {
+      "id": 4,
+      "name": "J`adore",
+      "description": "мыло для тела",
+      "volume": "150гр",
+      "intensity": 3,
+      "notes": "Иланг-Иланг",
+      "price": "3 550 ₽",
+      "image": "../src/assets/jadore-soap.png"
+    },
+    {
+      "id": 5,
+      "name": "Miss Dior",
+      "description": "парфюмерная вода",
+      "volume": "50мл",
+      "intensity": 5,
+      "notes": "Аккорд Красных Ягод",
+      "price": "12 300 ₽",
+      "image": "../src/assets/miss-dior-50.png"
+    },
+    {
+      "id": 6,
+      "name": "Miss Dior",
+      "description": "парфмированное масло для тела",
+      "volume": "100мл",
+      "intensity": 5,
+      "notes": "Роза Сентифолии",
+      "price": "6 450 ₽",
+      "image": "../src/assets/miss-dior-oil.png"
+    },
+    {
+      "id": 7,
+      "name": "Miss Dior",
+      "description": "парфюмерная вода",
+      "volume": "100мл",
+      "intensity": 5,
+      "notes": "Ландыш, Пион",
+      "price": "16 900 ₽",
+      "image": "../src/assets/miss-dior-100.png"
+    },
+    {
+      "id": 8,
+      "name": "Joy by Dior",
+      "description": "молочко для тела",
+      "volume": "200мл",
+      "intensity": 3,
+      "notes": "Ландыш, Роза",
+      "price": "5 930 ₽",
+      "image": "../src/assets/joy-milk.png"
+    },
+    {
+      "id": 9,
+      "name": "Miss Dior",
+      "description": "парфюмированная пудра для тела",
+      "volume": "16гр",
+      "intensity": 1,
+      "notes": "Цитрус",
+      "price": "6 650 ₽",
+      "image": "../src/assets/miss-dior-powder.png"
+    },
+    {
+      "id": 10,
+      "name": "J`adore",
+      "description": "парфюмерная вода",
+      "volume": "50мл",
+      "intensity": 5,
+      "notes": "Цитрус, Апельсин",
+      "price": "9 200 ₽",
+      "image": "../src/assets/jadore-1.png"
+    },
+    {
+      "id": 11,
+      "name": "J`adore",
+      "description": "парфюмерная вода",
+      "volume": "20мл",
+      "intensity": 4,
+      "notes": "Цветочные, цитрусовые ноты",
+      "price": "6 450 ₽",
+      "image": "../src/assets/jadore-pearl.png"
+    },
+    {
+      "id": 12,
+      "name": "J`adore",
+      "description": "духи",
+      "volume": "15мл",
+      "intensity": 5,
+      "notes": "роза Центифолия, эссенция Иланг-Иланг",
+      "price": "26 800 ₽",
+      "image": "../src/assets/jadore.png"
+    },
+    {
+      "id": 13,
+      "name": "J`adore",
+      "description": "увлажняющий крем для тела",
+      "volume": "150мл",
+      "intensity": 2,
+      "notes": "Анютины Глазки",
+      "price": "8 070 ₽",
+      "image": "../src/assets/jadore-cream.png"
+    },
+    {
+      "id": 14,
+      "name": "J'adore",
+      "description": "парфюмерная Вода",
+      "volume": "50мл",
+      "intensity": 3,
+      "notes": "Цветочные ноты",
+      "price": "10 300 ₽",
+      "image": "../src/assets/jadore-deau.png"
+    },
+    {
+      "id": 15,
+      "name": "Joy by Dior",
+      "description": "парфюмированный гель для душа",
+      "volume": "200мл",
+      "intensity": 5,
+      "notes": "Роза, Ваниль",
+      "price": "4 990 ₽",
+      "image": "../src/assets/joy-gel.png"
+    },
+    {
+      "id": 16,
+      "name": "Joy by Dior",
+      "description": "парфюмерная вода",
+      "volume": "30мл",
+      "intensity": 5,
+      "notes": "Роза, Жасмин, Дерево, Ваниль",
+      "price": "7 150 ₽",
+      "image": "../src/assets/joy-1.png"
+    },
+    {
+      "id": 17,
+      "name": "J'adore",
+      "description": "парфюмерная вода",
+      "volume": "90мл",
+      "intensity": 5,
+      "notes": "Роза, Жасмин, Дерево, Ваниль",
+      "price": "16 900 ₽",
+      "image": "../src/assets/joy-2.png"
+    },
+    {
+      "id": 18,
+      "name": "Hypnotic Poison",
+      "description": "парфюмерная вода",
+      "volume": "50мл",
+      "intensity": 5,
+      "notes": "Горький Апельсин, Грасская Роза",
+      "price": "12 300 ₽",
+      "image": "../src/assets/poison-1.png"
+    },
+    {
+      "id": 19,
+      "name": "Hypnotic Poison",
+      "description": "парфюмерная вода",
+      "volume": "50мл",
+      "intensity": 5,
+      "notes": "Калабрийский Бергамот, Цветок Апельсина",
+      "price": "10 300 ₽",
+      "image": "../src/assets/pure-poison.png"
+    },
+    {
+      "id": 20,
+      "name": "Hypnotic Poison",
+      "description": "парфюмерная вода",
+      "volume": "100мл",
+      "intensity": 5,
+      "notes": "Горький Апельсин, Грасская Роза",
+      "price": "16 900 ₽",
+      "image": "../src/assets/hypnotic-poison.png"
+    },
+    {
+      "id": 21,
+      "name": "Hypnotic Poison",
+      "description": "духи",
+      "volume": "15мл",
+      "intensity": 5,
+      "notes": "Кориандр",
+      "price": "22 500 ₽",
+      "image": "../src/assets/poison-15.png"
+    },
+    {
+      "id": 22,
+      "name": "Hypnotic Poison",
+      "description": "парфюмерная вода",
+      "volume": "50мл",
+      "intensity": 3,
+      "notes": "Жасмин Самбак, Миндаль",
+      "price": "10 300 ₽",
+      "image": "../src/assets/poison-red.png"
+    },
+    {
+      "id": 23,
+      "name": "Hypnotic Poison",
+      "description": "парфюмерная вода",
+      "volume": "100мл",
+      "intensity": 3,
+      "notes": "Танзанийский Имбирь, Роза Дамасцена",
+      "price": "14 350 ₽",
+      "image": "../src/assets/poison-pink.png"
+    },
+    {
+      "id": 24,
+      "name": "Hypnotic Poison",
+      "description": "парфюмерная вода",
+      "volume": "20мл",
+      "intensity": 5,
+      "notes": "Апельсин",
+      "price": "6 190 ₽",
+      "image": "../src/assets/poison-pink-2.png"
+    },
+    {
+      "id": 25,
+      "name": "Lucky",
+      "description": "увлажняющий крем для тела",
+      "volume": "150гр",
+      "intensity": 2,
+      "notes": "Мускат",
+      "price": "6 190 ₽",
+      "image": "../src/assets/lucky-cream.png"
+    },
+    {
+      "id": 26,
+      "name": "Joy by Dior",
+      "description": "парфюмированный дезодорант",
+      "volume": "150гр",
+      "intensity": 4,
+      "notes": "Цветочное комбо",
+      "price": "3 550 ₽",
+      "image": "../src/assets/joy-dezo.png"
+    },
+    {
+      "id": 27,
+      "name": "Joy by Dior",
+      "description": "мыло для тела",
+      "volume": "150гр",
+      "intensity": 2,
+      "notes": "Жасмин",
+      "price": "3 100 ₽",
+      "image": "../src/assets/miss-dior-soap.png"
+    },
+    {
+      "id": 28,
+      "name": "Miss Dior",
+      "description": "туалетная вода",
+      "volume": "20мл",
+      "intensity": 1,
+      "notes": "Эссенция Бергамота, Пиона",
+      "price": "5 150 ₽",
+      "image": "../src/assets/miss-dior-pearl.png"
+    },
+    {
+      "id": 29,
+      "name": "Miss Dior",
+      "description": "туалетная вода",
+      "volume": "50мл",
+      "intensity": 1,
+      "notes": "Жасмин, Гальбанум",
+      "price": "12 150 ₽",
+      "image": "../src/assets/miss-dior-yellow.png"
+    },
+    {
+      "id": 30,
+      "name": "Miss Dior",
+      "description": "парфюмированный гель для душа",
+      "volume": "200мл",
+      "intensity": 3,
+      "notes": "Жасмин, Миндаль",
+      "price": "5 900 ₽",
+      "image": "../src/assets/miss-dior-gel.png"
+    },
+    {
+      "id": 31,
+      "name": "Miss Dior",
+      "description": "увлажняющий крем для тела",
+      "volume": "150мл",
+      "intensity": 2,
+      "notes": "Жасмин, Роза",
+      "price": "9 450 ₽",
+      "image": "../src/assets/miss-dior-cream.png"
+    },
+    {
+      "id": 32,
+      "name": "Joy by Dior",
+      "description": "парфюмированный дезодорант",
+      "volume": "100мл",
+      "intensity": 4,
+      "notes": "Роза, Миндаль",
+      "price": "4 650 ₽",
+      "image": "../src/assets/joy-3.png"
+    },
+    {
+      "id": 33,
+      "name": "Hypnotic Poison",
+      "description": "туалетная вода",
+      "volume": "20мл",
+      "intensity": 1,
+      "notes": "Танзанийский Имбирь, Роза Дамасцена",
+      "price": "5 150 ₽",
+      "image": "../src/assets/hypnotic-poison-1.png"
+    },
+    {
+      "id": 34,
+      "name": "Dior Addict",
+      "description": "туалетная вода",
+      "volume": "50мл",
+      "intensity": 1,
+      "notes": "Калабоийский Бергамот, Ландыш",
+      "price": "14 350 ₽",
+      "image": "../src/assets/dior-addict-1.png"
+    },
+    {
+      "id": 35,
+      "name": "Dior Addict",
+      "description": "парфюмерная вода",
+      "volume": "30мл",
+      "intensity": 4,
+      "notes": "Фледоранж, Жасмин",
+      "price": "12 300 ₽",
+      "image": "../src/assets/dior-addict-2.png"
+    },
+    {
+      "id": 36,
+      "name": "Dior Addict",
+      "description": "туалетная вода",
+      "volume": "50мл",
+      "intensity": 1,
+      "notes": "Сицилийский Мандарин",
+      "price": "14 200 ₽",
+      "image": "../src/assets/dior-addict-3.png"
+    },
+    {
+      "id": 37,
+      "name": "Lucky",
+      "description": "жидкое мыло",
+      "volume": "350мл",
+      "intensity": 1,
+      "notes": "Киви, Ваниль",
+      "price": "6 990 ₽",
+      "image": "../src/assets/lucky-soap.png"
+    },
+    {
+      "id": 38,
+      "name": "Lucky",
+      "description": "туалетная вода",
+      "volume": "125мл",
+      "intensity": 1,
+      "notes": "Киви, Ваниль",
+      "price": "27 520 ₽",
+      "image": "../src/assets/lucky-perfume-125.png"
+    },
+    {
+      "id": 39,
+      "name": "Lucky",
+      "description": "туалетная вода",
+      "volume": "250мл",
+      "intensity": 1,
+      "notes": "Киви, Ваниль",
+      "price": "40 390 ₽",
+      "image": "../src/assets/lucky-perfume-125.png"
+    },
+    {
+      "id": 40,
+      "name": "Lucky",
+      "description": "мыло для тела",
+      "volume": "100гр",
+      "intensity": 1,
+      "notes": "Киви, Жасмин, Имбирь",
+      "price": "4 990 ₽",
+      "image": "../src/assets/lucky-soap-2.png"
+    }
+  ]
+  
