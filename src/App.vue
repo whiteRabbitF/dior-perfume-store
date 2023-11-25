@@ -116,7 +116,7 @@ export default {
 
     const fetchProducts = async () => {
       try {
-        const response = await fetch('../src/products/products.json');
+        const response = await fetch('/src/products/products.json');
         const data = await response.json();
         products.value = data;
       } catch (error) {
