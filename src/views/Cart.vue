@@ -1,14 +1,14 @@
 <template>
   <div>
     <div v-if="cart && cart.length <= 0">
-    <router-link to="/dior-perfume-store">
+    <router-link to="/dior-perfume-store/">
       <div class="back-icon"><img src="../assets/back-icon.png" alt="">
       <span>назад</span></div>
     </router-link>
   </div>
 
     <div v-if="cart && cart.length > 0">
-      <router-link to="/dior-perfume-store">
+      <router-link to="/dior-perfume-store/">
       <div class="back-icon"><img src="../assets/back-icon.png" alt="">
       <span>назад</span></div>
     </router-link>

@@ -1,6 +1,6 @@
 <template>
     <div>
-      <router-link to="/dior-perfume-store">
+      <router-link to="/dior-perfume-store/">
         <div class="back-icon"><img src="../assets/back-icon.png" alt="">
         <span>назад</span></div>
       </router-link>
@@ -14,7 +14,7 @@
       </div>
       <p class="description">ИСКУШАЮЩИЙ J`ADORE</p>
 
-      <router-link to="/">
+      <router-link to="/dior-perfume-store/">
         <div>
           <button class="to-order">заказать
           <span class="to-catalog">перейти в каталог</span></button>
