@@ -1,6 +1,6 @@
 <template>
     <div>
-      <router-link to="/">
+      <router-link to="/dior-perfume-store">
         <div class="back-icon"><img src="../assets/back-icon.png" alt="">
         <span>назад</span></div>
       </router-link>

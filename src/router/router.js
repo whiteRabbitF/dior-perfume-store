@@ -5,14 +5,12 @@ import MainPage from '../views/MainPage.vue';
 import PaymentForm from '../views/PaymentForm.vue'
 import AboutUs from '../views/AboutUs.vue'
 import PaymentFormFromCart from '../views/PaymentFormFromCart.vue'
-// import App from '../App.vue';
 
 
 
 export default createRouter({
   history: createWebHistory(),
   routes: [
-    // { path: "/", component: App },
     {path: "/basket", component: Cart},
     {path: "/account", component: UserAccount},
     {path: "/mainpage", component: MainPage},
