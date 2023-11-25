@@ -9,7 +9,7 @@
             <li><a href="/mainpage" class="main-button">Главная</a></li>
           </router-link>
 
-          <router-link to="/">
+          <router-link to="/dior-perfume-store/">
           <li><a href="/" class="main-button">Каталог</a></li>
           </router-link>
 
