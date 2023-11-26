@@ -6,7 +6,7 @@
 }
 
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 932px) {
  
 		.main-menu {
 		  height: 200px;
@@ -37,8 +37,8 @@
 			margin: 0 auto;
 			max-width: 100%;
 			margin-top: 20px;
-			display: flex;
-			flex-wrap: wrap;
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
 			justify-content: center;
 		  }
 		  
