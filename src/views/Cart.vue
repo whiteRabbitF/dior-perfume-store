@@ -120,6 +120,9 @@ export default {
       this.cart.splice(index, 1);
     },
   },
+  getStoreImageUrl: function (item) {
+  return 'dior-perfume-store/' + item.image;
+}
 };
 </script>
 
