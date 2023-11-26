@@ -1,6 +1,13 @@
-# Vue 3 + Vite
+# This project is an exampleof online webstore selling perfumes and cosmetics of DIOR brand. In this petproject implemented: the logic gor adding a product to the cart,thr logic of checkout from cart and from catalog, the logic for logging into account. The list of products is in json file as an array, path to which is written in app.vue and cart.vue.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# visit the site you can here -> https://whiterabbitf.github.io/dior-perfume-store/
+
+# Vue 3 + Vite + vue router + scss + js vanilla
+
+commands in terminal for code view
+# npm install
+# npm run dev
+
 
 ## Recommended IDE Setup
 
