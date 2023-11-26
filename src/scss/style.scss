@@ -6,47 +6,143 @@
 }
 
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 767px) {
+ 
+		.main-menu {
+		  height: 200px;
+		  width: 1000px;
+		  background-size: contain; /* Чтобы изображение фона полностью отображалось на мобильных устройствах */
+		  background-position: top center;
+		  text-align: center; /* Центрируем текст внутри .main-menu на мобильных устройствах */
+		}
+	  
+		.main-menu ul {
+		  margin-top: -170px; /* Добавим отступ между меню и изображением */
+		  font-size: 5pt;
+		}
+	  
+		.main-menu li {
+		  float: none;
+		//   margin-bottom: 10px; /* Добавим отступ между элементами меню */
+		  display: grid;
+		  grid-template-columns: repeat(2, 2fr);
+		}
+	  
+		.main-menu a {
+		  font-size: 5pt; /* Уменьшаем размер шрифта для лучшей читаемости на мобильных устройствах */
+		}
 
-	.sorting-container{
-	  width: 100%; /* Ширина 100%, чтобы соответствовать ширине экрана */
-	  height: auto; /* Высота автоматически подстраивается под контент */
-	  margin-left: 0; /* Изменение отступа */
-	  margin-top: 20px; /* Новый отступ сверху */
-	  transform: none; /* Сброс трансформации */
-	}
-  
-	.content-container {
-	  max-width: 100%; /* Ширина 100%, чтобы соответствовать ширине экрана */
-	  margin-left: 0; /* Изменение отступа */
-	  width: calc(50% - 10px); /* 50% ширины экрана с учетом расстояния между блоками */
-	  margin-right: 10px; /* Расстояние между блоками */
-	  width: 200px;
-	  height: 300px;
-	}
-  
-	.block {
-	//   width: 100%; /* Ширина 100%, чтобы соответствовать ширине экрана */
-	//   margin-bottom: 20px; /* Уменьшение отступа */
-		width: calc(50% - 10px); /* 50% ширины экрана с учетом расстояния между блоками */
-		margin-right: 10px; /* Расстояние между блоками */
-		width: 200px;
-		height: 300px;
-	}
-  
-	.info-about-product{
-	  width: 100%; /* Ширина 100%, чтобы соответствовать ширине экрана */
-	  grid-template-columns: repeat(2, 1fr); /* Два столбца вместо пяти */
-	  gap: 10px; /* Уменьшение отступа */
-	  font-size: 12pt;
-	}
-  
-	.price{
-	  margin-top: 20px; /* Уменьшение отступа */
-	}
-  
-	/* Дополнительные изменения по мере необходимости */
-  
+
+		.content-container {
+			margin: 0 auto;
+			max-width: 100%;
+			margin-top: 20px;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		  }
+		  
+		  .block {
+			position: relative;
+			gap: 10px;
+			height: 450px; /* Уменьшаем высоту блока для мобильных устройств */
+			width: 100%; /* Занимаем всю ширину на мобильных устройствах */
+			border-radius: 10px; /* Однородные радиусы */
+			font-family: 'Comfortaa', sans-serif;
+			font-size: 14px; /* Уменьшаем размер шрифта для мобильных устройств */
+			margin-top: 20px;
+			margin-bottom: 20px;
+		  }
+		  
+		  .content h2 {
+			margin-top: 10px; /* Уменьшаем отступ заголовка */
+		  }
+		  
+		  .content h4 {
+			height: auto; /* Убираем фиксированную высоту h4 */
+			font-size: 10pt; /* Уменьшаем размер шрифта для мобильных устройств */
+		  }
+		  
+		  .block img {
+			width: 100%;
+			height: 250px; /* Уменьшаем высоту изображения для мобильных устройств */
+			object-fit: cover;
+		  }
+		  
+		  .buy-btn {
+			width: 100%;
+			padding: 15px; /* Уменьшаем отступ кнопки */
+			border-radius: 10px;
+			font-size: 18px; /* Уменьшаем размер шрифта для мобильных устройств */
+			margin-top: 20px;
+		  }
+		  
+		  .info-about-product {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr); /* 2 столбца вместо 5 на мобильных устройствах */
+			width: 100%;
+			margin-top: 10px; /* Уменьшаем отступ */
+			gap: 10px; /* Уменьшаем отступ между элементами */
+		  }
+		  
+		  .like-icon {
+			top: 5px; /* Уменьшаем отступ сверху для иконки "like" */
+			right: 20px; /* Уменьшаем отступ справа для иконки "like" */
+			font-size: 40px; /* Уменьшаем размер шрифта для иконки "like" */
+		  }
+		  
+		  .buy-btn:hover {
+			background-color: #0f1011ef;
+			box-shadow: 0 10px 15px rgba(7, 84, 107, 0.356);
+			border-radius: 10px;
+		  }
+		  
+		  .load-more-btn {
+			width: 100%;
+			padding: 15px;
+			border-radius: 10px;
+			font-size: 18px;
+			margin-top: 20px;
+		  }
+		  .menu {
+			display: flex;
+			justify-content: space-between; /* Распределяем элементы по горизонтали */
+			align-items: center; /* Выравниваем элементы по вертикали */
+			margin-right: auto; /* Двигаем меню влево (оставляем правый отступ) */
+			padding: 10px; /* Добавляем небольшие внутренние отступы */
+			margin-left: 50px;
+		  }
+		  
+		  .search-bar img{
+			display: flex;
+			align-items: center;
+			cursor: pointer;
+			margin-right: 50px;
+		  }
+		  
+		  .icon-menu img {
+			display: flex;
+			align-items: left;
+			margin-left: 30px;
+			margin-right: 120px;
+		  }
+		  
+		  .sorting-container{
+			display: grid;
+			grid-template-columns: repeat(3, 4fr);
+			width: 1000px;
+			height: 100px;
+			font-weight: 400;
+			font-family: 'Comfortaa', sans-serif;
+			font-size: 12pt;
+			margin-top: 100px;
+			color: #111010;
+			position: relative;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			margin-left: -190px;
+		  }
   }
   
 
