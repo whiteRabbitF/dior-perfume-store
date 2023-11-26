@@ -119,9 +119,10 @@ export default {
     removeFromCart(index) {
       this.cart.splice(index, 1);
     },
+    
+    getStoreImageUrl: function (item)  {
+    return 'dior-perfume-store/' + item.image;
   },
-  getStoreImageUrl: function (item) {
-  return 'dior-perfume-store/' + item.image;
 }
 };
 </script>
