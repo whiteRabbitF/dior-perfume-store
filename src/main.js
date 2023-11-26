@@ -19,5 +19,5 @@ const app = createApp(App);
 app.use(router);
 app.mount('#app');
 
-
+document.body.style.zoom = "70%";
 
