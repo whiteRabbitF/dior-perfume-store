@@ -15,7 +15,7 @@
       <h1 class="cart">КОРЗИНА</h1>
       <div v-for="(item, index) in cart" :key="index" class="block-cart" :data-id="item.id">
         <div class="cart-positions">
-          <img :src="item.image" :alt="item.name" />
+          <img :src="getStoreImageUrl(item)" :alt="item.name" />
           <div class="content-cart">
             <h2>{{ item.name }} </h2>
             <span class="info-about-product">
